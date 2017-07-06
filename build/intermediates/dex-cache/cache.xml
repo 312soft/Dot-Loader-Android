@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Code\Android\DotLoaderView2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Code\Android\DotLoaderView2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0ab253a6a50c0c82dc15c4ad9f1cacbf90bbf3b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BakiBillah\.android\build-cache\8dff1b1307be5d9090f218f79b4f4f5a9889ce2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba510275928ed6ae1b1b51547813aec0c775d170">
+        <dex dex="F:\Code\Android\DotLoaderView2\app\build\intermediates\pre-dexed\debug\classes_fa493371cc7fc366d9b68e1afb4739b41350e997.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Code\Android\DotLoaderView2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d89fce916c033575f5300faaaafc79b79a73f1cd">
+        <dex dex="F:\Code\Android\DotLoaderView2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2e71ae370699cd49cce73d1ed4eb9eb726672099\classes.dex" />
+    </item>
+
+</items>
